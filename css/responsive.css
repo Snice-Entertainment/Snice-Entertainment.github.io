@@ -49,6 +49,8 @@
 
   .slider_section .img_content {
     margin-top: 55px;
+    max-width: 100%;
+    width: 100%;
   }
 
   .contact_section .map_container {
